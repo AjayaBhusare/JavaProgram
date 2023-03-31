@@ -1,1 +1,1 @@
-# JavaNumberProgram
+# JavaProgram
